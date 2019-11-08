@@ -32,10 +32,16 @@ A curated list of cool libraries that pertain to Flutter.
 - [Web Browser](https://github.com/victorbonnet/flutter_web_browser)
 - [Sliding Up Panel](https://github.com/akshathjain/sliding_up_panel)
 - [Slidable](https://github.com/letsar/flutter_slidable)
+- [SpinKit](https://github.com/jogboms/flutter_spinkit)
+- [Expandable](https://github.com/aryzhov/flutter-expandable)
 - [Sticky Headers](https://github.com/fluttercommunity/flutter_sticky_headers)
 - [Statusbar Manager](https://github.com/FooStudio/flutter_statusbar_manager)
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter)
 - [Pin Code Text Field](https://github.com/LiewJunTung/pin_code_text_field)
+- [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh)
+- [Vibration](https://github.com/benjamindean/flutter_vibration)
+- [Flare](https://github.com/2d-inc/Flare-Flutter)
+- [Dart PDF](https://github.com/DavBfr/dart_pdf)
 
 ## Examples
 - [Architecture Comparison](https://github.com/askharley/flutter-architecture-comparison)
