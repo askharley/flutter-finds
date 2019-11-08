@@ -16,6 +16,7 @@ A curated list of cool libraries that pertain to Flutter.
 
 ## Dialogs
 - [Overlay Support](https://github.com/boyan01/overlay_support)
+- [Flushbar](https://github.com/AndreHaueisen/flushbar)
 - [Giffy Dialog](https://github.com/xsahil03x/giffy_dialog)
 
 ## Charts
@@ -28,11 +29,13 @@ A curated list of cool libraries that pertain to Flutter.
 - [Flutter Map](https://github.com/johnpryan/flutter_map)
 
 ## Random
+- [Web Browser](https://github.com/victorbonnet/flutter_web_browser)
 - [Sliding Up Panel](https://github.com/akshathjain/sliding_up_panel)
 - [Slidable](https://github.com/letsar/flutter_slidable)
 - [Sticky Headers](https://github.com/fluttercommunity/flutter_sticky_headers)
 - [Statusbar Manager](https://github.com/FooStudio/flutter_statusbar_manager)
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter)
+- [Pin Code Text Field](https://github.com/LiewJunTung/pin_code_text_field)
 
 ## Examples
 - [Architecture Comparison](https://github.com/askharley/flutter-architecture-comparison)
