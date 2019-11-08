@@ -1,6 +1,9 @@
 # Flutter Finds
 A curated list of cool libraries that pertain to Flutter.
 
+## Core
+- [Flutter Plugins](https://github.com/flutter/plugins)
+
 ## State Management
 - [Provider](https://github.com/rrousselGit/provider)
 - [BLOC](https://github.com/felangel/bloc)
@@ -27,6 +30,7 @@ A curated list of cool libraries that pertain to Flutter.
 
 ## Maps
 - [Flutter Map](https://github.com/johnpryan/flutter_map)
+- [Search Map Place](https://github.com/Bernardi23/search_map_place)
 
 ## Random
 - [Undraw](https://github.com/westdabestdb/undraw)
