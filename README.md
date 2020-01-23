@@ -21,6 +21,7 @@ A curated list of cool libraries that pertain to Flutter.
 - [Overlay Support](https://github.com/boyan01/overlay_support)
 - [Flushbar](https://github.com/AndreHaueisen/flushbar)
 - [Giffy Dialog](https://github.com/xsahil03x/giffy_dialog)
+- [Awesome Dialgogs](https://github.com/marcos930807/awesomeDialogs)
 
 ## Charts
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart)
