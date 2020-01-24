@@ -52,3 +52,4 @@ A curated list of cool libraries that pertain to Flutter.
 ## Examples
 - [Architecture Comparison](https://github.com/askharley/flutter-architecture-comparison)
 - [BLoC Pattern](https://github.com/babihutan/flutter_bloc_pattern)
+- [Flutter UI Challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
